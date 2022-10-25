@@ -1,0 +1,22 @@
+button {
+    color: rgb(214, 211, 40);
+    border-radius: 10px;
+    margin: 60px 0px 0px 90px;
+    padding: 15px;
+    background-color: black;
+}
+img {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50%;
+    margin: 10px 3% 1em;
+}
+h4 {
+    color: lightblue;
+    margin-left: 50px;
+}
+a {
+    color: green;
+    margin-left: 50px;
+}
