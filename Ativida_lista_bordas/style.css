@@ -20,3 +20,9 @@ th {
     border-style: solid;
     border-radius: 50;
 }
+
+div {
+border-color: black;
+    border-width: 8px;
+    border-style: solid;
+}
