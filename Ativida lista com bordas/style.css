@@ -1,0 +1,22 @@
+img {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50%;
+
+}
+
+td {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50;
+
+}
+
+th {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50;
+}
