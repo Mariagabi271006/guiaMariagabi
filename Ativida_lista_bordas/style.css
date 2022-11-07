@@ -56,3 +56,19 @@ color: rgb(255, 255, 255);
 table {
   background-color: rgb(197, 120, 120);
 }
+img{
+    width: 400px;
+}
+
+@media screen and (max-device-width: 768px) {
+    img {
+        width: 200px;
+        height: 200px;
+    }
+}
+@media screen and (max-device-height: 768px) {
+    img {
+        width: 200px;
+        height: 200px;
+    }
+}
