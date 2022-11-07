@@ -54,21 +54,25 @@ color: rgb(255, 255, 255);
 }
 
 table {
-  background-color: rgb(197, 120, 120);
+  background-color: rgb(125, 197, 192);
 }
 img{
     width: 400px;
 }
 
-@media screen and (max-device-width: 768px) {
+@media screen and (max-device-width: 960px) {
     img {
-        width: 300px;
+        width: 200px;
         height: 200px;
+    }
+    div {
+    border-color: rgb(35, 87, 217);
+    border-style: solid;
     }
 }
 @media screen and (max-device-height: 768px) {
     img {
-        width: 300px;
+        width: 200px;
         height: 200px;
     }
 }
