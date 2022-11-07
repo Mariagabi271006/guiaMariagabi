@@ -62,13 +62,13 @@ img{
 
 @media screen and (max-device-width: 768px) {
     img {
-        width: 200px;
+        width: 300px;
         height: 200px;
     }
 }
 @media screen and (max-device-height: 768px) {
     img {
-        width: 200px;
+        width: 300px;
         height: 200px;
     }
 }
